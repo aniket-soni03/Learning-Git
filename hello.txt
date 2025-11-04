@@ -1,2 +1,4 @@
 Hello there i am learnging git 
 this is a text file
+
+Hello my name is aniket soni
